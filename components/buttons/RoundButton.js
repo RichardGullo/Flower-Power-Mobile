@@ -1,7 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View} from 'react-native';
 import Icon from 'react-native-vector-icons/Ionicons';
-import Color from 'react-native-sandbox/constants/colors';
+import Color from '../../constants/colors';
 
 function RoundButton(props) {
 

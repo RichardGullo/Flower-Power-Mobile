@@ -3,7 +3,7 @@ import { Text, View, StyleSheet, Button, Image, StatusBar, TextInput } from 'rea
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { FlatList, TouchableOpacity } from 'react-native-gesture-handler';
 import Icon from 'react-native-vector-icons/Ionicons';
-import PlantList from 'react-native-sandbox/components/PlantReminderList';
+import PlantList from '../PlantReminderList';
 import Color from '../../constants/colors';
 import { useNavigation } from '@react-navigation/native';
 import Api from 'react-native-sandbox/constants/api';

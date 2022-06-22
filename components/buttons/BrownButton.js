@@ -1,6 +1,6 @@
 import React,{useState} from 'react'
 import {Text, View, TouchableOpacity} from 'react-native'
-import Color from 'react-native-sandbox/constants/colors'
+import Color from '../../constants/colors'
 
 function BrownButton(props)
 {

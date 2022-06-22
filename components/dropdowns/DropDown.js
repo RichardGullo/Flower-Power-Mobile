@@ -4,8 +4,8 @@ import { Icon } from 'react-native-elements'
 import { useNavigation } from '@react-navigation/native';
 import { AppContext } from 'react-native-sandbox/context/app-context';
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import Api from 'react-native-sandbox/constants/api.js';
-import Color from 'react-native-sandbox/constants/colors.js';
+import Api from '../../constants/api.js';
+import Color from '../../constants/colors.js';
 
 
 
